@@ -1,4 +1,4 @@
-# hyper-marvel
+# Hyper Marvel - Theme
 > dark & colorful [Hyper](https://hyper.is) theme
 
 ![screenshot](https://github.com/tyrollins/hyper-marvel/blob/master/screenshot.png)
