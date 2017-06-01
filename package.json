@@ -1,0 +1,23 @@
+{
+  "name": "hyper-marvel",
+  "version": "0.1.0",
+  "description": "dark & colorful hyper theme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyrollins/hyper-marvel"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper-theme",
+    "hyper-app",
+    "terminal",
+    "term",
+    "theme",
+    "dark",
+    "marvel"
+  ],
+  "author": "Tyler Rollins",
+  "license": "MIT"
+}
