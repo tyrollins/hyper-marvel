@@ -1,6 +1,8 @@
 # hyper-marvel
 > dark & colorful [Hyper](https://hyper.is) theme
 
+![screenshot](https://github.com/tyrollins/hyper-marvel/screenshot.png)
+
 Suggested Add-ons:
 * font: SF Mono
 * term: zsh (OH-MY-ZSH)
