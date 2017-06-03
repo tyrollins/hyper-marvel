@@ -5,8 +5,6 @@ exports.decorateConfig = config => Object.assign({}, config, {
   foregroundColor: '#E0E6ED',
   borderColor:     '#273444',
   cursorColor:     '#1FEEFF',
-  cursorShape: 'BLOCK',
-  fontFamily: 'SF Mono, Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
 
   colors: {
     black:        '#1F2D3D',
